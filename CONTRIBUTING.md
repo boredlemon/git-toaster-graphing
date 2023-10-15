@@ -1,4 +1,4 @@
-# Contributing to CoffeeActivityTools
+# Contributing to CoffeeGraphTools
 
 We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's:
 
@@ -20,7 +20,7 @@ Our aim is to **keep it simple** for the developers to contribute to this projec
 
 3. Set your streams so you can sync your clone with the original repo (get the latest updates)
 
-   - `git remote add upstream https://github.com/CoffeeBit/CoffeeActivityTools`
+   - `git remote add upstream https://github.com/CoffeeBit/CoffeeGraphTools`
    - `git pull upstream main`
    - The above 2 commands will synchronize your forked version of the project with the actual repository.
 

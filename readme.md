@@ -2,7 +2,7 @@
     <img src="asset/logo.svg" height="150">
 </p>
 
-<h1 align="center">CoffeeActivityTools</h1>
+<h1 align="center">CoffeeGraphTools</h1>
 
 ## Table of contents
 
@@ -26,14 +26,14 @@
 -   [Star History](#star-history)
     -   [Made with ❤ and TypeScript ](#made-with--and-typescript-)
 
-## How To Use CoffeeActivityTools
+## How To Use CoffeeGraphTools
 
 #### Simple Graph 
 Just paste the following URL in your profile readme and you are good to go.
 
 **Pass your `username` in the URL**
 ```md
-[![Coffee's github activity graph](https://CoffeeActivityTools.vercel.app/graph?username=CoffeeBit)](https://github.com/CoffeeBit/CoffeeActivityTools)
+[![Coffee's github activity graph](https://CoffeeGraphTools.vercel.app/graph?username=CoffeeBit)](https://github.com/CoffeeBit/CoffeeGraphTools)
 ```
 
 <!-- ### [Attention ⚠](#Deploy-on-your-own-heroku-instance) -->
@@ -43,7 +43,7 @@ Just paste the following URL in your profile readme and you are good to go.
 _`username=Coffee&theme=theme_name`_
 
 ```md
-[![Coffee's github activity graph](https://CoffeeActivityTools.vercel.app/graph?username=CoffeeBit&theme=dracula)](https://github.com/CoffeeBit/CoffeeActivityTools)
+[![Coffee's github activity graph](https://CoffeeGraphTools.vercel.app/graph?username=CoffeeBit&theme=dracula)](https://github.com/CoffeeBit/CoffeeGraphTools)
 ```
 
 [Manual Customization](#customization) is also available
@@ -58,13 +58,13 @@ Example:
 **`custom_title=This%20is%20a%20title`**
 
 ```md
-[![Coffee's github activity graph](https://CoffeeActivityTools.vercel.app/graph?username=CoffeeBit&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/CoffeeBit/CoffeeActivityTools)
+[![Coffee's github activity graph](https://CoffeeGraphTools.vercel.app/graph?username=CoffeeBit&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/CoffeeBit/CoffeeGraphTools)
 ```
 
 **Example:**
 
 ```md
-[![Coffee's github activity graph](https://CoffeeActivityTools.vercel.app/graph?username=CoffeeBit&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/CoffeeBit/CoffeeActivityTools)
+[![Coffee's github activity graph](https://CoffeeGraphTools.vercel.app/graph?username=CoffeeBit&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/CoffeeBit/CoffeeGraphTools)
 ```
 
 #### URL Parameter Options
@@ -103,7 +103,7 @@ Example:
 |      **tokyo-night**       |  <img src="./asset/tokyo-night.png" height=250 alt="graph"/>   |
 |     **high-contrast**      | <img src="./asset/high-contrast.png" height=250 alt="graph"/>  |
 
-Click "MoreThemes" to view more availible themes! [MoreThemes](https://github.com/CoffeeBit/CoffeeActivityTools/blob/main/THEMES.md)
+Click "MoreThemes" to view more availible themes! [MoreThemes](https://github.com/CoffeeBit/CoffeeGraphTools/blob/main/THEMES.md)
 
 ## Deploy on Replit
 
@@ -115,8 +115,8 @@ Click "MoreThemes" to view more availible themes! [MoreThemes](https://github.co
 1. Sign in to Replit or create a new account at https://replit.com
 2. Click the Deploy button below
 
- <a href="https://repl.it/github/Coffee/CoffeeActivityTools">
-   <img alt="Run on Repl.it" src="https://repl.it/badge/github/Coffee/CoffeeActivityTools" style="height: 40px; width: 190px;" />
+ <a href="https://repl.it/github/Coffee/CoffeeGraphTools">
+   <img alt="Run on Repl.it" src="https://repl.it/badge/github/Coffee/CoffeeGraphTools" style="height: 40px; width: 190px;" />
  </a>
 
 3. On the page that comes up, choose language as `Node.js` and then click `Import from GitHub` Button
@@ -167,7 +167,7 @@ Click "MoreThemes" to view more availible themes! [MoreThemes](https://github.co
 
 Alternatively, click the button below and follow the instructions.
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/CoffeeBit/CoffeeActivityTools)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/CoffeeBit/CoffeeGraphTools)
 
 After the deployment is complete:
 
@@ -190,6 +190,6 @@ Now just add the following to your profile readme and you're good to go.
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Coffee/CoffeeActivityTools&type=Timeline)](https://star-history.com/#Coffee/CoffeeActivityTools&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=Coffee/CoffeeGraphTools&type=Timeline)](https://star-history.com/#Coffee/CoffeeGraphTools&Timeline)
 
 ### Made with ❤ and TypeScript <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="25">

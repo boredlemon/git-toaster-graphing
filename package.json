@@ -1,5 +1,5 @@
 {
-    "name": "CoffeeActivityTools",
+    "name": "CoffeeGraphTools",
     "version": "1.0.0",
     "description": "An activity graph to show you github activities (or contribution)",
     "main": "main.ts",
@@ -14,14 +14,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/CoffeeBit/CoffeeActivityTools.git"
+        "url": "git+https://github.com/CoffeeBit/CoffeeGraphTools.git"
     },
     "author": "Coffee",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/CoffeeBit/CoffeeActivityTools/issues"
+        "url": "https://github.com/CoffeeBit/CoffeeGraphTools/issues"
     },
-    "homepage": "https://github.com/CoffeeBit/CoffeeActivityTools#readme",
+    "homepage": "https://github.com/CoffeeBit/CoffeeGraphTools#readme",
     "dependencies": {
         "@types/body-parser": "^1.19.0",
         "@types/cors": "^2.8.12",
