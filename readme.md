@@ -111,9 +111,9 @@
 <hr/>
 <br/>
 
-![Coffee's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoffeeBit&show_icons=true&theme=radical)
+![Coffee's GitHub stats](https://coffeestats.vercel.app/api?username=CoffeeBit&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoffeeBit&layout=donut-vertical)
+![Top Langs](https://coffeestats.app/api/top-langs/?username=CoffeeBit&layout=donut-vertical)
 
 
-![Coffee's graph](https://coffeemdtools.vercel.app/graph?username=CoffeeBit&bg_color=3a88fe&color=004d65&line=263e0f&point=000000&area=true&hide_border=true)
+![Coffee's graph](https://CoffeeActivityTools.vercel.app/graph?username=CoffeeBit&bg_color=3a88fe&color=004d65&line=263e0f&point=000000&area=true&hide_border=true)
