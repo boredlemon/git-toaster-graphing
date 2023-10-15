@@ -26,7 +26,7 @@
 -   [Star History](#star-history)
     -   [Made with ❤ and TypeScript ](#made-with--and-typescript-)
 
-## Instructions 
+## How To Use CoffeeActivityTools
 
 Just paste the following URL in your profile readme and you are good to go.
 
@@ -52,7 +52,21 @@ _`username=Coffee&theme=theme_name`_
 
 Customize the appearance of your Activity Graph however you want with URL params.
 
-#### Common Options
+Example:
+
+**`custom_title=This%20is%20a%20title`**
+
+```md
+[![Coffee's github activity graph](https://CoffeeActivityTools.vercel.app/graph?username=Coffee&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/CoffeeBit/CoffeeActivityTools)
+```
+
+**Example:**
+
+```md
+[![Coffee's github activity graph](https://CoffeeActivityTools.vercel.app/graph?username=Coffee&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/CoffeeBit/CoffeeActivityTools)
+```
+
+#### Options
 
 |   Arguments    |                  Description                  |       Type of Value        |
 | :------------: | :-------------------------------------------: | :------------------------: |
@@ -72,20 +86,6 @@ Customize the appearance of your Activity Graph however you want with URL params
 
 ⚠ **For `custom_title` please make sure that you are using %20 for spaces**
 
-Example:
-
-**`custom_title=This%20is%20a%20title`**
-
-```md
-[![Coffee's github activity graph](https://CoffeeActivityTools.vercel.app/graph?username=Coffee&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/CoffeeBit/CoffeeActivityTools)
-```
-
-**Example:**
-
-```md
-[![Coffee's github activity graph](https://CoffeeActivityTools.vercel.app/graph?username=Coffee&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/CoffeeBit/CoffeeActivityTools)
-```
-
 ## Available Themes
 
 |            Name            |                            Preview                             |
@@ -102,7 +102,7 @@ Example:
 |      **tokyo-night**       |  <img src="./asset/tokyo-night.png" height=250 alt="graph"/>   |
 |     **high-contrast**      | <img src="./asset/high-contrast.png" height=250 alt="graph"/>  |
 
-For more themes click [here](https://github.com/CoffeeBit/CoffeeActivityTools/blob/main/THEMES.md)
+Click "MoreThemes" to view more availible themes! [MoreThemes](https://github.com/CoffeeBit/CoffeeActivityTools/blob/main/THEMES.md)
 
 ## Deploy on Replit
 
