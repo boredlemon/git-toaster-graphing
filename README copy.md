@@ -2,7 +2,7 @@
     <img src="asset/logo.svg" height="150">
 </p>
 
-<h1 align="center">Github Readme Activity Graph</h1>
+<h1 align="center">CoffeeActivityTools</h1>
 
 <a href="https://jb.gg/OpenSourceSupport">
 <p align="center">
