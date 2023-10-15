@@ -115,7 +115,7 @@ const getGraph = (username) => {
     };
 
     axios({
-        url: `https://CoffeeMDTools.vercel.app/data?username=${username}`,
+        url: `https://coffeemdtools.vercel.app/data?username=${username}`,
         method: 'GET'
     })
         .then((contributionData) => {
