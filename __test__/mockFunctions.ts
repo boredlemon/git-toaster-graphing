@@ -70,7 +70,7 @@ export const mockQueryCorrect = jest.fn().mockReturnValue({
       },
     `,
     variables: {
-        LOGIN: 'Coffee00710',
+        LOGIN: 'Coffee',
     },
 });
 

@@ -26,45 +26,27 @@
 -   [Star History](#star-history)
     -   [Made with ❤ and TypeScript ](#made-with--and-typescript-)
 
-## How to Use
+## Instructions 
 
 Just paste the following URL in your profile readme and you are good to go.
 
 **Pass your `username` in the URL**
 
 ```md
-[![Coffee's github activity graph](https://CoffeeActivityTools.vercel.app/graph?username=Coffee00710)](https://github.com/CoffeeBit/CoffeeActivityTools)
+[![Coffee's github activity graph](https://CoffeeActivityTools.vercel.app/graph?username=Coffee)](https://github.com/CoffeeBit/CoffeeActivityTools)
 ```
 
 ### [Attention ⚠](#Deploy-on-your-own-heroku-instance)
 
 ## Use themes
 
-_`username=Coffee00710&theme=theme_name`_
+_`username=Coffee&theme=theme_name`_
 
 ```md
-[![Coffee's github activity graph](https://CoffeeActivityTools.vercel.app/graph?username=Coffee00710&theme=dracula)](https://github.com/CoffeeBit/CoffeeActivityTools)
+[![Coffee's github activity graph](https://CoffeeActivityTools.vercel.app/graph?username=Coffee&theme=dracula)](https://github.com/CoffeeBit/CoffeeActivityTools)
 ```
 
 [Manual Customization](#customization) is also available
-
-## Available Themes
-
-|            Name            |                            Preview                             |
-| :------------------------: | :------------------------------------------------------------: |
-| **Default (cotton candy)** |    <img src="./asset/default.svg" height=250 alt="graph"/>     |
-|         **react**          |     <img src="./asset/react.png" height=250 alt="graph"/>      |
-|       **react-dark**       |   <img src="./asset/react-dark.svg" height=250 alt="graph"/>   |
-|         **github**         |     <img src="./asset/github.svg" height=250 alt="graph"/>     |
-|     **github-compact**     | <img src="./asset/github-compact.svg" height=250 alt="graph"/> |
-|         **xcode**          |     <img src="./asset/xcode.svg" height=250 alt="graph"/>      |
-|         **rogue**          |     <img src="./asset/rogue.svg" height=250 alt="graph"/>      |
-|         **merko**          |     <img src="./asset/merko.png" height=250 alt="graph"/>      |
-|          **vue**           |      <img src="./asset/vue.png" height=250 alt="graph"/>       |
-|      **tokyo-night**       |  <img src="./asset/tokyo-night.png" height=250 alt="graph"/>   |
-|     **high-contrast**      | <img src="./asset/high-contrast.png" height=250 alt="graph"/>  |
-
-For more themes click [here](https://github.com/CoffeeBit/CoffeeActivityTools/blob/main/THEMES.md)
 
 ## Customization
 
@@ -95,16 +77,34 @@ Example:
 **`custom_title=This%20is%20a%20title`**
 
 ```md
-[![Coffee's github activity graph](https://CoffeeActivityTools.vercel.app/graph?username=Coffee00710&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/CoffeeBit/CoffeeActivityTools)
+[![Coffee's github activity graph](https://CoffeeActivityTools.vercel.app/graph?username=Coffee&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/CoffeeBit/CoffeeActivityTools)
 ```
 
 **Example:**
 
 ```md
-[![Coffee's github activity graph](https://CoffeeActivityTools.vercel.app/graph?username=Coffee00710&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/CoffeeBit/CoffeeActivityTools)
+[![Coffee's github activity graph](https://CoffeeActivityTools.vercel.app/graph?username=Coffee&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/CoffeeBit/CoffeeActivityTools)
 ```
 
-## Deploy on your own Replit instance
+## Available Themes
+
+|            Name            |                            Preview                             |
+| :------------------------: | :------------------------------------------------------------: |
+| **Default (cotton candy)** |    <img src="./asset/default.svg" height=250 alt="graph"/>     |
+|         **react**          |     <img src="./asset/react.png" height=250 alt="graph"/>      |
+|       **react-dark**       |   <img src="./asset/react-dark.svg" height=250 alt="graph"/>   |
+|         **github**         |     <img src="./asset/github.svg" height=250 alt="graph"/>     |
+|     **github-compact**     | <img src="./asset/github-compact.svg" height=250 alt="graph"/> |
+|         **xcode**          |     <img src="./asset/xcode.svg" height=250 alt="graph"/>      |
+|         **rogue**          |     <img src="./asset/rogue.svg" height=250 alt="graph"/>      |
+|         **merko**          |     <img src="./asset/merko.png" height=250 alt="graph"/>      |
+|          **vue**           |      <img src="./asset/vue.png" height=250 alt="graph"/>       |
+|      **tokyo-night**       |  <img src="./asset/tokyo-night.png" height=250 alt="graph"/>   |
+|     **high-contrast**      | <img src="./asset/high-contrast.png" height=250 alt="graph"/>  |
+
+For more themes click [here](https://github.com/CoffeeBit/CoffeeActivityTools/blob/main/THEMES.md)
+
+## Deploy on Replit
 
 <details>
 <summary><b>Step-by-step instructions for deploying to Replit (from UI)</b></summary>
@@ -114,8 +114,8 @@ Example:
 1. Sign in to Replit or create a new account at https://replit.com
 2. Click the Deploy button below
 
- <a href="https://repl.it/github/Coffee00710/CoffeeActivityTools">
-   <img alt="Run on Repl.it" src="https://repl.it/badge/github/Coffee00710/CoffeeActivityTools" style="height: 40px; width: 190px;" />
+ <a href="https://repl.it/github/Coffee/CoffeeActivityTools">
+   <img alt="Run on Repl.it" src="https://repl.it/badge/github/Coffee/CoffeeActivityTools" style="height: 40px; width: 190px;" />
  </a>
 
 3. On the page that comes up, choose language as `Node.js` and then click `Import from GitHub` Button
@@ -137,7 +137,7 @@ Example:
 
 </details>
 
-## Deploy on your own Vercel instance
+## Deploy on Vercel (Recommended)
 
 <details>
 <summary><b>Step-by-step instructions for deploying to Vercel (from UI)</b></summary>
@@ -189,6 +189,6 @@ Now just add the following to your profile readme and you're good to go.
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Coffee00710/CoffeeActivityTools&type=Timeline)](https://star-history.com/#Coffee00710/CoffeeActivityTools&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=Coffee/CoffeeActivityTools&type=Timeline)](https://star-history.com/#Coffee/CoffeeActivityTools&Timeline)
 
 ### Made with ❤ and TypeScript <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="25">
