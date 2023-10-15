@@ -98,10 +98,10 @@
 <br/>
 
 ## Top Open Source -
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CoffeeBit&repo=CoffeeBot)](https://github.com/CoffeeBit/CoffeeBot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CoffeeBit&repo=Cup)](https://github.com/CoffeeBit/Cup)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CoffeeBit&repo=CoffeeOS)](https://github.com/CoffeeBit/CoffeeOS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CoffeeBit&repo=coffeezhs)](https://github.com/CoffeeBit/coffeezhs)
+[![Readme Card](https://coffeestats.vercel.app/api/pin/?username=CoffeeBit&repo=CoffeeBot)](https://github.com/CoffeeBit/CoffeeBot)
+[![Readme Card](https://coffeestats.vercel.app/api/pin/?username=CoffeeBit&repo=Cup)](https://github.com/CoffeeBit/Cup)
+[![Readme Card](https://coffeestats.vercel.app/api/pin/?username=CoffeeBit&repo=CoffeeOS)](https://github.com/CoffeeBit/CoffeeOS)
+[![Readme Card](https://coffeestats.vercel.app/api/pin/?username=CoffeeBit&repo=coffeezhs)](https://github.com/CoffeeBit/coffeezhs)
 
 <p align="left">
   <a href="https://github.com/CoffeeBit?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
