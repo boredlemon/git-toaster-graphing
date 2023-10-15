@@ -28,45 +28,46 @@
 
 ## How To Use CoffeeActivityTools
 
+#### Simple Graph 
 Just paste the following URL in your profile readme and you are good to go.
 
 **Pass your `username` in the URL**
-
 ```md
-[![Coffee's github activity graph](https://CoffeeActivityTools.vercel.app/graph?username=Coffee)](https://github.com/CoffeeBit/CoffeeActivityTools)
+[![Coffee's github activity graph](https://CoffeeActivityTools.vercel.app/graph?username=CoffeeBit)](https://github.com/CoffeeBit/CoffeeActivityTools)
 ```
 
-### [Attention ⚠](#Deploy-on-your-own-heroku-instance)
+<!-- ### [Attention ⚠](#Deploy-on-your-own-heroku-instance) -->
 
 ## Use themes
 
 _`username=Coffee&theme=theme_name`_
 
 ```md
-[![Coffee's github activity graph](https://CoffeeActivityTools.vercel.app/graph?username=Coffee&theme=dracula)](https://github.com/CoffeeBit/CoffeeActivityTools)
+[![Coffee's github activity graph](https://CoffeeActivityTools.vercel.app/graph?username=CoffeeBit&theme=dracula)](https://github.com/CoffeeBit/CoffeeActivityTools)
 ```
 
 [Manual Customization](#customization) is also available
 
 ## Customization
 
-Customize the appearance of your Activity Graph however you want with URL params.
+Customize the appearance of your Activity Graph however you want with URL params!
+If you don't know what a URl param is follow or read this guide here ==> https://developer.mozilla.org/en-US/docs/Web/API/URLSearchParams
 
 Example:
 
 **`custom_title=This%20is%20a%20title`**
 
 ```md
-[![Coffee's github activity graph](https://CoffeeActivityTools.vercel.app/graph?username=Coffee&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/CoffeeBit/CoffeeActivityTools)
+[![Coffee's github activity graph](https://CoffeeActivityTools.vercel.app/graph?username=CoffeeBit&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/CoffeeBit/CoffeeActivityTools)
 ```
 
 **Example:**
 
 ```md
-[![Coffee's github activity graph](https://CoffeeActivityTools.vercel.app/graph?username=Coffee&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/CoffeeBit/CoffeeActivityTools)
+[![Coffee's github activity graph](https://CoffeeActivityTools.vercel.app/graph?username=CoffeeBit&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/CoffeeBit/CoffeeActivityTools)
 ```
 
-#### Options
+#### URL Parameter Options
 
 |   Arguments    |                  Description                  |       Type of Value        |
 | :------------: | :-------------------------------------------: | :------------------------: |
