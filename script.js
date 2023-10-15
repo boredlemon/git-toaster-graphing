@@ -47,7 +47,7 @@ const removePlaceholder = () => {
 // Generate chart link with user data
 
 const generateLink = () => {
-    let link = `[![Coffee's github activity graph](https://CoffeeMDTools.vercel.app/graph?username=${
+    let link = `[![Coffee's github activity graph](https://coffeemdtools.vercel.app/graph?username=${
         valueToCopy.username
     }&bg_color=${valueToCopy.bgColor.slice(1)}&color=${valueToCopy.color.slice(
         1
