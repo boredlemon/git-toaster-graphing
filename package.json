@@ -1,5 +1,5 @@
 {
-    "name": "CoffeeGraphTools",
+    "name": "ToastGraphTools",
     "version": "1.0.0",
     "description": "An activity graph to show you github activities (or contribution)",
     "main": "main.ts",
@@ -14,14 +14,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/CoffeeBit/CoffeeGraphTools.git"
+        "url": "git+https://github.com/ToastBit/ToastGraphTools.git"
     },
-    "author": "Coffee",
+    "author": "Toast",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/CoffeeBit/CoffeeGraphTools/issues"
+        "url": "https://github.com/ToastBit/ToastGraphTools/issues"
     },
-    "homepage": "https://github.com/CoffeeBit/CoffeeGraphTools#readme",
+    "homepage": "https://github.com/ToastBit/ToastGraphTools#readme",
     "dependencies": {
         "@types/body-parser": "^1.19.0",
         "@types/cors": "^2.8.12",

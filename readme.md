@@ -2,7 +2,7 @@
     <img src="asset/logo.svg" height="150">
 </p>
 
-<h1 align="center">CoffeeGraphTools</h1>
+<h1 align="center">ToastGraphTools</h1>
 
 ## Table of contents
 
@@ -26,24 +26,24 @@
 -   [Star History](#star-history)
     -   [Made with ❤ and TypeScript ](#made-with--and-typescript-)
 
-## How To Use CoffeeGraphTools
+## How To Use ToastGraphTools
 
 #### Simple Graph 
 Just paste the following URL in your profile readme and you are good to go.
 
 **Pass your `username` in the URL**
 ```md
-[![Coffee's github activity graph](https://CoffeeGraphTools.vercel.app/graph?username=CoffeeBit)](https://github.com/CoffeeBit/CoffeeGraphTools)
+[![Toast's github activity graph](https://git-toaster-graphing.vercel.app/graph?username=ToastBit)](https://github.com/ToastBit/ToastGraphTools)
 ```
 
 <!-- ### [Attention ⚠](#Deploy-on-your-own-heroku-instance) -->
 
 ## Use themes
 
-_`username=Coffee&theme=theme_name`_
+_`username=Toast&theme=theme_name`_
 
 ```md
-[![Coffee's github activity graph](https://CoffeeGraphTools.vercel.app/graph?username=CoffeeBit&theme=dracula)](https://github.com/CoffeeBit/CoffeeGraphTools)
+[![Toast's github activity graph](https://git-toaster-graphing.vercel.app/graph?username=ToastBit&theme=dracula)](https://github.com/ToastBit/ToastGraphTools)
 ```
 
 [Manual Customization](#customization) is also available
@@ -58,13 +58,13 @@ Example:
 **`custom_title=This%20is%20a%20title`**
 
 ```md
-[![Coffee's github activity graph](https://CoffeeGraphTools.vercel.app/graph?username=CoffeeBit&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/CoffeeBit/CoffeeGraphTools)
+[![Toast's github activity graph](https://git-toaster-graphing.vercel.app/graph?username=ToastBit&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ToastBit/ToastGraphTools)
 ```
 
 **Example:**
 
 ```md
-[![Coffee's github activity graph](https://CoffeeGraphTools.vercel.app/graph?username=CoffeeBit&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/CoffeeBit/CoffeeGraphTools)
+[![Toast's github activity graph](https://git-toaster-graphing.vercel.app/graph?username=ToastBit&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ToastBit/ToastGraphTools)
 ```
 
 #### URL Parameter Options
@@ -103,7 +103,7 @@ Example:
 |      **tokyo-night**       |  <img src="./asset/tokyo-night.png" height=250 alt="graph"/>   |
 |     **high-contrast**      | <img src="./asset/high-contrast.png" height=250 alt="graph"/>  |
 
-Click "MoreThemes" to view more availible themes! [MoreThemes](https://github.com/CoffeeBit/CoffeeGraphTools/blob/main/THEMES.md)
+Click "MoreThemes" to view more availible themes! [MoreThemes](https://github.com/ToastBit/ToastGraphTools/blob/main/THEMES.md)
 
 ## Deploy on Replit
 
@@ -115,8 +115,8 @@ Click "MoreThemes" to view more availible themes! [MoreThemes](https://github.co
 1. Sign in to Replit or create a new account at https://replit.com
 2. Click the Deploy button below
 
- <a href="https://repl.it/github/Coffee/CoffeeGraphTools">
-   <img alt="Run on Repl.it" src="https://repl.it/badge/github/Coffee/CoffeeGraphTools" style="height: 40px; width: 190px;" />
+ <a href="https://repl.it/github/Toast/ToastGraphTools">
+   <img alt="Run on Repl.it" src="https://repl.it/badge/github/Toast/ToastGraphTools" style="height: 40px; width: 190px;" />
  </a>
 
 3. On the page that comes up, choose language as `Node.js` and then click `Import from GitHub` Button
@@ -167,7 +167,7 @@ Click "MoreThemes" to view more availible themes! [MoreThemes](https://github.co
 
 Alternatively, click the button below and follow the instructions.
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/CoffeeBit/CoffeeGraphTools)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/ToastBit/ToastGraphTools)
 
 After the deployment is complete:
 
@@ -190,6 +190,6 @@ Now just add the following to your profile readme and you're good to go.
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Coffee/CoffeeGraphTools&type=Timeline)](https://star-history.com/#Coffee/CoffeeGraphTools&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=Toast/ToastGraphTools&type=Timeline)](https://star-history.com/#Toast/ToastGraphTools&Timeline)
 
 ### Made with ❤ and TypeScript <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="25">

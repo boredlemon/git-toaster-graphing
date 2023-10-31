@@ -47,13 +47,13 @@ const removePlaceholder = () => {
 // Generate chart link with user data
 
 const generateLink = () => {
-    let link = `[![Coffee's github activity graph](https://coffeegraphtools.vercel.app/graph?username=${
+    let link = `[![Toast's github activity graph](https://git-toaster-graphing.vercel.app/graph?username=${
         valueToCopy.username
     }&bg_color=${valueToCopy.bgColor.slice(1)}&color=${valueToCopy.color.slice(
         1
     )}&line=${valueToCopy.line.slice(1)}&point=${valueToCopy.point.slice(
         1
-    )}&area=true&hide_border=true)](https://github.com/CoffeeBit/CoffeeGraphTools)`;
+    )}&area=true&hide_border=true)](https://github.com/ToastBit/ToastGraphTools)`;
     elements.textArea.value = link;
     elements.copyText.childNodes[3].style.backgroundColor = 'rgb(87, 132, 245)';
     return link;
@@ -115,7 +115,7 @@ const getGraph = (username) => {
     };
 
     axios({
-        url: `https://coffeegraphtools.vercel.app/data?username=${username}`,
+        url: `https://git-toaster-graphing.vercel.app/data?username=${username}`,
         method: 'GET'
     })
         .then((contributionData) => {

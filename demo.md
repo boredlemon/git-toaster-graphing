@@ -6,13 +6,13 @@
 
 <!--
 <p align="center">
-  <a href="https://github.com/Coffee"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/Toast"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
  -->
 
-<a href="https://komarev.com/ghpvc/?username=CoffeeBit">
-  <img align="right" src="https://komarev.com/ghpvc/?username=CoffeeBit&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=ToastBit">
+  <img align="right" src="https://komarev.com/ghpvc/?username=ToastBit&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
@@ -21,14 +21,14 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hello!, I am
-                <b><a target="_blank" href="https://justmecoffee.vercel.app">Coffee</a></b>
+                <b><a target="_blank" href="https://justmetoast.vercel.app">Toast</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://justmecoffee.vercel.app">「 Website 」</a>
+    <a href="https://justmetoast.vercel.app">「 Website 」</a>
     <br>
     「 I am a full-stack web developer from <b>Pennsylvannia</b> 」
     <br>
@@ -37,23 +37,23 @@
 </p>
 
 <p align="center">
- <a href="https://justmecoffee.vercel.app" target="blank">
-  <img src="https://img.shields.io/badge/Website-327574?style=for-the-badge&logo=medium&logoColor=white" alt="Coffee" />
+ <a href="https://justmetoast.vercel.app" target="blank">
+  <img src="https://img.shields.io/badge/Website-327574?style=for-the-badge&logo=medium&logoColor=white" alt="Toast" />
  </a>
  <a href="https://linkedin.com/in/al-siam" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-e30b3e?style=for-the-badge&logo=youtube&logoColor=white" alt="Coffee"/>
+  <img src="https://img.shields.io/badge/YouTube-e30b3e?style=for-the-badge&logo=youtube&logoColor=white" alt="Toast"/>
  </a>
- <!-- <a href="https://dev.to/Coffee" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Coffee" />
+ <!-- <a href="https://dev.to/Toast" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Toast" />
  </a> -->
- <!-- <a href="https://twitter.com/Coffee_dev" target="_blank">
+ <!-- <a href="https://twitter.com/Toast_dev" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/Coffee_dev" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Coffee" />
+ <a href="https://instagram.com/Toast_dev" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Toast" />
  </a> 
- <a href="https://facebook.com/Coffee.world" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Coffee"  />
+ <a href="https://facebook.com/Toast.world" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Toast"  />
   </a>  -->
 </p>
 <br />
@@ -66,8 +66,8 @@
   
  👨‍💻 &emsp; I enjoy doing programming and sharing knowledge about it<br/><br/>
  💻 &emsp; I love to do coding during my free time<br/><br/>
- 🌐 &emsp; My website: [Website](https://justmecoffee.vercel.app/contact)<br/><br/>
- 💬 &emsp; Email or say hi to me: [here](https://justmecoffee.vercel.app/contact)
+ 🌐 &emsp; My website: [Website](https://justmetoast.vercel.app/contact)<br/><br/>
+ 💬 &emsp; Email or say hi to me: [here](https://justmetoast.vercel.app/contact)
 
 </p>
 
@@ -98,22 +98,22 @@
 <br/>
 
 ## Top Open Source -
-[![Readme Card](https://coffeestats.vercel.app/api/pin/?username=CoffeeBit&repo=CoffeeBot)](https://github.com/CoffeeBit/CoffeeBot)
-[![Readme Card](https://coffeestats.vercel.app/api/pin/?username=CoffeeBit&repo=Cup)](https://github.com/CoffeeBit/Cup)
-[![Readme Card](https://coffeestats.vercel.app/api/pin/?username=CoffeeBit&repo=CoffeeOS)](https://github.com/CoffeeBit/CoffeeOS)
-[![Readme Card](https://coffeestats.vercel.app/api/pin/?username=CoffeeBit&repo=coffeezhs)](https://github.com/CoffeeBit/coffeezhs)
+[![Readme Card](https://toaststats.vercel.app/api/pin/?username=ToastBit&repo=ToastBot)](https://github.com/ToastBit/ToastBot)
+[![Readme Card](https://toaststats.vercel.app/api/pin/?username=ToastBit&repo=Cup)](https://github.com/ToastBit/Cup)
+[![Readme Card](https://toaststats.vercel.app/api/pin/?username=ToastBit&repo=ToastOS)](https://github.com/ToastBit/ToastOS)
+[![Readme Card](https://toaststats.vercel.app/api/pin/?username=ToastBit&repo=toastzhs)](https://github.com/ToastBit/toastzhs)
 
 <p align="left">
-  <a href="https://github.com/CoffeeBit?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/ToastBit?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
 <hr/>
 <br/>
 
-![Coffee's GitHub stats](https://coffeestats.vercel.app/api?username=CoffeeBit&show_icons=true&theme=radical)
+![Toast's GitHub stats](https://toaststats.vercel.app/api?username=ToastBit&show_icons=true&theme=radical)
 
-![Top Langs](https://coffeestats.vercel.app/api/top-langs/?username=CoffeeBit&layout=donut-vertical)
+![Top Langs](https://toaststats.vercel.app/api/top-langs/?username=ToastBit&layout=donut-vertical)
 
 
-![Coffee's graph](https://CoffeeGraphTools.vercel.app/graph?username=CoffeeBit&bg_color=3a88fe&color=004d65&line=263e0f&point=000000&area=true&hide_border=true)
+![Toast's graph](https://git-toaster-graphing.vercel.app/graph?username=ToastBit&bg_color=3a88fe&color=004d65&line=263e0f&point=000000&area=true&hide_border=true)
